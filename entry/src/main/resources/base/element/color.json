@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "app_background",
+      "value": "#FFBDC6D4"
+    },
+    {
+      "name": "card_background_color",
+      "value": "#D78D929D"
+    },
+    {
+      "name": "app_background_search",
+      "value": "#FFD2E7CA"
+    },
+    {
+      "name": "app_background_scan",
+      "value": "#FFBDC6D4"
+    },
+    {
+      "name": "base_background_gradient_start",
+      "value": "#FF2A1B45"
+    },
+    {
+      "name": "base_background_gradient_end",
+      "value": "#FF010E1F"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "geyser",
+      "value": "#FFD4E4E5"
+    },
+    {
+      "name": "deep_teal",
+      "value": "#FF065356"
+    },
+    {
+      "name": "deep_aqua",
+      "value": "#FF00787C"
+    },
+    {
+      "name": "lavender_blush",
+      "value": "#FFF3CEE0"
+    },
+    {
+      "name": "pinkish",
+      "value": "#FFF39AC4"
+    },
+    {
+      "name": "green",
+      "value": "#1db954"
+    },
+    {
+      "name": "soft_green",
+      "value": "#191414"
+    }
+  ]
+}

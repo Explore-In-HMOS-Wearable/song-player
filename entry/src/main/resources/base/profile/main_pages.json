@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/SearchPage",
+    "pages/ListPage",
+    "pages/ScanPage",
+    "pages/SongPage"
+  ]
+}
